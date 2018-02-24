@@ -9,3 +9,4 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [Ruby](./algorithms/reverse_integer.rb)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [Ruby](./algorithms/palindrome_number.rb)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)| [Ruby](./algorithms/roman_to_integer.rb)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| [Ruby](./algorithms/longest_common_prefix.rb)|Easy|
