@@ -12,3 +12,4 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| [Ruby](./algorithms/longest_common_prefix.rb)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [Ruby](./algorithms/valid_parentheses.rb)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)| [Ruby](./algorithms/merge_two_sorted_lists.rb)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [Ruby](./algorithms/remove_duplicates_from_sorted_array.rb)|Easy|
