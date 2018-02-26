@@ -13,3 +13,4 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [Ruby](./algorithms/valid_parentheses.rb)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)| [Ruby](./algorithms/merge_two_sorted_lists.rb)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [Ruby](./algorithms/remove_duplicates_from_sorted_array.rb)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/)| [Ruby](./algorithms/remove_element.rb)|Easy|
