@@ -20,3 +20,4 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)| [Ruby](./algorithms/maximum_subarray.rb)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)| [Ruby](./algorithms/length_of_last_word.rb)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)| [Ruby](./algorithms/plus_one.rb)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/description/)| [Ruby](./algorithms/add_binary.rb)|Easy|
