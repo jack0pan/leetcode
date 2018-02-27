@@ -19,3 +19,4 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)| [Ruby](./algorithms/count_and_say.rb)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)| [Ruby](./algorithms/maximum_subarray.rb)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)| [Ruby](./algorithms/length_of_last_word.rb)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/description/)| [Ruby](./algorithms/plus_one.rb)|Easy|
