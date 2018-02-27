@@ -17,3 +17,4 @@
 |28|[Implement strStr()](https://leetcode.com/problems/impelement-strstr/description/)| [Ruby](./algorithms/implement_strstr.rb)|Easy|
 |35|[Search Insert Postion](https://leetcode.com/problems/search-insert-position/description/)| [Ruby](./algorithms/search_insert_position.rb)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)| [Ruby](./algorithms/count_and_say.rb)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)| [Ruby](./algorithms/maximum_subarray.rb)|Easy|
