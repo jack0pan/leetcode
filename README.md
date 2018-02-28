@@ -22,3 +22,4 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Ruby](./algorithms/plus_one.rb)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Ruby](./algorithms/add_binary.rb)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Ruby](./algorithms/sqrtx.rb)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Ruby](./algorithms/climbing_stairs.rb)|Easy|
