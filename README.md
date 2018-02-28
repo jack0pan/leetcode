@@ -23,3 +23,4 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Ruby](./algorithms/add_binary.rb)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Ruby](./algorithms/sqrtx.rb)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Ruby](./algorithms/climbing_stairs.rb)|Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Ruby](./algorithms/remove_duplicates_from_sorted_list.rb)|Easy|
