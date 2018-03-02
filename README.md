@@ -10,6 +10,7 @@
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Ruby](./algorithms/zigzag_conversion.rb)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Ruby](./algorithms/reverse_integer.rb)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Ruby](./algorithms/palindrome_number.rb)|Easy|
+|10|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Ruby](./algorithms/string_to_integer_atoi.rb)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Ruby](./algorithms/roman_to_integer.rb)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Ruby](./algorithms/longest_common_prefix.rb)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Ruby](./algorithms/valid_parentheses.rb)|Easy|
