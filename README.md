@@ -27,6 +27,7 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Ruby](./algorithms/remove_duplicates_from_sorted_array.rb)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Ruby](./algorithms/remove_element.rb)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/impelement-strstr/description/)|[Ruby](./algorithms/implement_strstr.rb)|Easy|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Ruby](./algorithms/next_permutation.rb)|Medium|
 |35|[Search Insert Postion](https://leetcode.com/problems/search-insert-position/description/)|[Ruby](./algorithms/search_insert_position.rb)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Ruby](./algorithms/count_and_say.rb)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Ruby](./algorithms/maximum_subarray.rb)|Easy|
