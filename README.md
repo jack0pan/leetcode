@@ -31,6 +31,7 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Ruby](./algorithms/search_in_rotated_sorted_array.rb)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-range/description/)|[Ruby](./algorithms/search_for_a_range.rb)|Medium|
 |35|[Search Insert Postion](https://leetcode.com/problems/search-insert-position/description/)|[Ruby](./algorithms/search_insert_position.rb)|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Ruby](./algorithms/valid_sudoku.rb)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Ruby](./algorithms/count_and_say.rb)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Ruby](./algorithms/maximum_subarray.rb)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Ruby](./algorithms/length_of_last_word.rb)|Easy|
