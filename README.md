@@ -36,6 +36,7 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Ruby](./algorithms/combination_sum_ii.rb)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[Ruby](./algorithms/multiply_strings.rb)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[Ruby](./algorithms/permutations.rb)|Medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[Ruby](./algorithms/permutations_ii.rb)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Ruby](./algorithms/maximum_subarray.rb)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Ruby](./algorithms/length_of_last_word.rb)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Ruby](./algorithms/plus_one.rb)|Easy|
