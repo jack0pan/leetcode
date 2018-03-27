@@ -45,7 +45,8 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[README](./algorithms/jump_game)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[README](./algorithms/merge_intervals)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Ruby](./algorithms/length_of_last_word.rb)|Easy|
-|54|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[README](./algorithms/spiral_matrix_ii)|Medium|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[README](./algorithms/spiral_matrix_ii)|Medium|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[README](./algorithms/permutation_sequence)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Ruby](./algorithms/plus_one.rb)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Ruby](./algorithms/add_binary.rb)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Ruby](./algorithms/sqrtx.rb)|Easy|
