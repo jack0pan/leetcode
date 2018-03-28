@@ -48,6 +48,7 @@
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[README](./algorithms/spiral_matrix_ii)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[README](./algorithms/permutation_sequence)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[README](./algorithms/rotate_list)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[README](./algorithms/unique_paths)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Ruby](./algorithms/plus_one.rb)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Ruby](./algorithms/add_binary.rb)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Ruby](./algorithms/sqrtx.rb)|Easy|
