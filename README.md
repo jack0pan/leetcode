@@ -50,6 +50,7 @@
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[README](./algorithms/rotate_list)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[README](./algorithms/unique_paths)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[README](./algorithms/unique_paths_ii)|Medium|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[README](./algorithms/minimum_path_sum)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[Ruby](./algorithms/plus_one.rb)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[Ruby](./algorithms/add_binary.rb)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[Ruby](./algorithms/sqrtx.rb)|Easy|
