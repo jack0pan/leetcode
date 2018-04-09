@@ -59,6 +59,7 @@
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[README](./algorithms/set_matrix_zeroes)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[README](./algorithms/search_a_2d_matrix)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[README](./algorithms/sort_colors)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/description/)|[README](./algorithms/subsets)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Ruby](./algorithms/remove_duplicates_from_sorted_list.rb)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Ruby](./algorithms/merge_sorted_array.rb)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Ruby](./algorithms/same_tree.rb)|Easy|
