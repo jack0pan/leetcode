@@ -61,6 +61,7 @@
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[README](./algorithms/sort_colors)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/description/)|[README](./algorithms/combinations)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[README](./algorithms/subsets)|Medium|
+|79|[Word Search](https://leetcode.com/problems/word-search/description/)|[README](./algorithms/word_search)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Ruby](./algorithms/remove_duplicates_from_sorted_list.rb)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Ruby](./algorithms/merge_sorted_array.rb)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Ruby](./algorithms/same_tree.rb)|Easy|
