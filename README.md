@@ -65,5 +65,6 @@
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[README](./algorithms/remove_duplicates_from_sorted_array_ii)|Medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[README](./algorithms/search_in_rotated_sorted_array_ii)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[README](./algorithms/remove_duplicates_from_sorted_list_ii)|Medium|
+|86|[Partition List](https://leetcode.com/problems/partition-list/description/)|[README](./algorithms/partition_list)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Ruby](./algorithms/merge_sorted_array.rb)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Ruby](./algorithms/same_tree.rb)|Easy|
