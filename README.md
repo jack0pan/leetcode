@@ -71,3 +71,4 @@
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)|[README](./algorithms/subsets_ii)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[README](./algorithms/decode_ways)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Ruby](./algorithms/same_tree.rb)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[README](./algorithms/reverse_linked_list)|Easy|
