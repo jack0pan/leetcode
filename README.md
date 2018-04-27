@@ -71,5 +71,6 @@
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)|[README](./algorithms/subsets_ii)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[README](./algorithms/decode_ways)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)|[README](./algorithms/reverse_linked_list_ii)|Medium|
+|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)|[README](./algorithms/restore_ip_addresses)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Ruby](./algorithms/same_tree.rb)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[README](./algorithms/reverse_linked_list)|Easy|
