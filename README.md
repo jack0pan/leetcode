@@ -73,6 +73,7 @@
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)|[README](./algorithms/reverse_linked_list_ii)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)|[README](./algorithms/restore_ip_addresses)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[README](./algorithms/binary_tree_inorder_traversal)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[README](./algorithms/validate_binary_search_tree)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Ruby](./algorithms/same_tree.rb)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[README](./algorithms/binary_tree_preorder_traversal)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)|[README](./algorithms/binary_tree_postorder_traversal)|Medium|
