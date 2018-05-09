@@ -76,6 +76,7 @@
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)|[README](./algorithms/unique_binary_search_trees)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[README](./algorithms/validate_binary_search_tree)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Ruby](./algorithms/same_tree.rb)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[README](./algorithms/symmetric_tree)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[README](./algorithms/binary_tree_level_order_traversal)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)|[README](./algorithms/binary_tree_zigzag_level_order_traversal)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[README](./algorithms/construct_binary_tree_from_preorder_and_inorder_traversal)|Medium|
