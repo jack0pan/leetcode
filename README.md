@@ -15,7 +15,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Ruby](./algorithms/roman_to_integer.rb)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Ruby](./algorithms/longest_common_prefix.rb)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[README](./algorithms/three_sum)|Medium|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[Ruby](./algorithms/three_sum_closest.rb)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[README](./algorithms/three_sum_closest)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Ruby](./algorithms/letter_combinations_of_a_phone_number.rb)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)|[Ruby](./algorithms/four_sum.rb)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Ruby](./algorithms/remove_nth_from_end_of_list.rb)|Medium|
