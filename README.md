@@ -17,7 +17,7 @@
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[README](./algorithms/three_sum)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[README](./algorithms/three_sum_closest)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Ruby](./algorithms/letter_combinations_of_a_phone_number.rb)|Medium|
-|18|[4Sum](https://leetcode.com/problems/4sum/description/)|[Ruby](./algorithms/four_sum.rb)|Medium|
+|18|[4Sum](https://leetcode.com/problems/4sum/description/)|[README](./algorithms/four_sum)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Ruby](./algorithms/remove_nth_from_end_of_list.rb)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Ruby](./algorithms/valid_parentheses.rb)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Ruby](./algorithms/merge_two_sorted_lists.rb)|Easy|
