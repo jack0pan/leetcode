@@ -4,7 +4,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[README](./algorithms/two_sum)|Easy|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Ruby](./algorithms/add_two_numbers.rb)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[README](./algorithms/add_two_numbers)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Ruby](./algorithms/longest_substring_without_repeating_characters.rb)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Ruby](./algorithms/zigzag_conversion.rb)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Ruby](./algorithms/reverse_integer.rb)|Easy|

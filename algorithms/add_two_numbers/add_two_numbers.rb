@@ -17,17 +17,17 @@ def add_two_numbers(l1, l2)
   c3 = l3
   carry = 0
   while c1 or c2
-      x = c1.nil? ? 0 : c1.val
-      y = c2.nil? ? 0 : c2.val
-      sum = x + y + carry
-      carry = sum / 10
-      c3.next = ListNode.new(sum % 10)
-      c1 = c1.nil? ? nil : c1.next
-      c2 = c2.nil? ? nil : c2.next
-      c3 = c3.next
+    x = c1.nil? ? 0 : c1.val
+    y = c2.nil? ? 0 : c2.val
+    sum = x + y + carry
+    carry = sum / 10
+    c3.next = ListNode.new(sum % 10)
+    c1 = c1.nil? ? nil : c1.next
+    c2 = c2.nil? ? nil : c2.next
+    c3 = c3.next
   end
   if (carry > 0)
-      c3.next = ListNode.new(carry)
+    c3.next = ListNode.new(carry)
   end
   l3.next
 end
