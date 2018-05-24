@@ -14,7 +14,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Ruby](./algorithms/container_with_most_water.rb)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[Ruby](./algorithms/integer_to_roman.rb)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Ruby](./algorithms/roman_to_integer.rb)|Easy|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Ruby](./algorithms/longest_common_prefix.rb)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[README](./algorithms/longest_common_prefix)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[README](./algorithms/three_sum)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[README](./algorithms/three_sum_closest)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Ruby](./algorithms/letter_combinations_of_a_phone_number.rb)|Medium|
