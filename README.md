@@ -8,7 +8,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[README](./algorithms/longest_substring_without_repeating_characters)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[README](./algorithms/longest_palindromic_substring)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[README](./algorithms/zigzag_conversion)|Medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Ruby](./algorithms/reverse_integer.rb)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[README](./algorithms/reverse_integer)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Ruby](./algorithms/string_to_integer_atoi.rb)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Ruby](./algorithms/palindrome_number.rb)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Ruby](./algorithms/container_with_most_water.rb)|Medium|
