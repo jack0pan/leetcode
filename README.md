@@ -13,7 +13,7 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[README](./algorithms/palindrome_number)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[README](./algorithms/container_with_most_water)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[README](./algorithms/integer_to_roman)|Medium|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Ruby](./algorithms/roman_to_integer.rb)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[README](./algorithms/roman_to_integer)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[README](./algorithms/longest_common_prefix)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[README](./algorithms/three_sum)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[README](./algorithms/three_sum_closest)|Medium|
