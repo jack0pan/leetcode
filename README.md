@@ -22,7 +22,7 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[README](./algorithms/remove_nth_from_end_of_list)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[README](./algorithms/valid_parentheses)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[README](./algorithms/merge_two_sorted_lists)|Easy|
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Ruby](./algorithms/generate_parentheses.rb)|Medium|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[README](./algorithms/generate_parentheses)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[Ruby](./algorithms/swap_nodes_in_pairs.rb)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Ruby](./algorithms/remove_duplicates_from_sorted_array.rb)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Ruby](./algorithms/remove_element.rb)|Easy|
