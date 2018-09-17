@@ -26,7 +26,7 @@
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[README](./algorithms/swap_nodes_in_pairs)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[README](./algorithms/remove_duplicates_from_sorted_array)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[README](./algorithms/remove_element)|Easy|
-|28|[Implement strStr()](https://leetcode.com/problems/impelement-strstr/description/)|[Ruby](./algorithms/implement_strstr.rb)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/impelement-strstr/description/)|[README](./algorithms/implement_strstr)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Ruby](./algorithms/next_permutation.rb)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[README](./algorithms/search_in_rotated_sorted_array)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-range/description/)|[Ruby](./algorithms/search_for_a_range.rb)|Medium|
