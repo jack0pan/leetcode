@@ -24,7 +24,7 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[README](./algorithms/merge_two_sorted_lists)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[README](./algorithms/generate_parentheses)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[README](./algorithms/swap_nodes_in_pairs)|Medium|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Ruby](./algorithms/remove_duplicates_from_sorted_array.rb)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[README](./algorithms/remove_duplicates_from_sorted_array)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Ruby](./algorithms/remove_element.rb)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/impelement-strstr/description/)|[Ruby](./algorithms/implement_strstr.rb)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Ruby](./algorithms/next_permutation.rb)|Medium|
