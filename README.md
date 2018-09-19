@@ -28,7 +28,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[README](./algorithms/remove_element)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/impelement-strstr/description/)|[README](./algorithms/implement_strstr)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-tow-integers/description/)|[README](./algorithms/divide_two_integers)|Medium|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Ruby](./algorithms/next_permutation.rb)|Medium|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[README](./algorithms/next_permutation)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[README](./algorithms/search_in_rotated_sorted_array)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-range/description/)|[Ruby](./algorithms/search_for_a_range.rb)|Medium|
 |35|[Search Insert Postion](https://leetcode.com/problems/search-insert-position/description/)|[Ruby](./algorithms/search_insert_position.rb)|Easy|
