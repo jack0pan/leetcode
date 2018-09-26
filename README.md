@@ -31,7 +31,7 @@
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[README](./algorithms/next_permutation)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[README](./algorithms/search_in_rotated_sorted_array)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-range/description/)|[Ruby](./algorithms/search_for_a_range.rb)|Medium|
-|35|[Search Insert Postion](https://leetcode.com/problems/search-insert-position/description/)|[Ruby](./algorithms/search_insert_position.rb)|Easy|
+|35|[Search Insert Postion](https://leetcode.com/problems/search-insert-position/description/)|[README](./algorithms/search_insert_position)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Ruby](./algorithms/valid_sudoku.rb)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Ruby](./algorithms/count_and_say.rb)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Ruby](./algorithms/combination_sum.rb)|Medium|
