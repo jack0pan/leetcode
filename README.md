@@ -30,7 +30,7 @@
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-tow-integers/description/)|[README](./algorithms/divide_two_integers)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[README](./algorithms/next_permutation)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[README](./algorithms/search_in_rotated_sorted_array)|Medium|
-|34|[Search for a Range](https://leetcode.com/problems/search-for-range/description/)|[Ruby](./algorithms/search_for_a_range.rb)|Medium|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[README](./algorithms/find_first_and_last_position_of_element_in_sorted_array)|Medium|
 |35|[Search Insert Postion](https://leetcode.com/problems/search-insert-position/description/)|[README](./algorithms/search_insert_position)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Ruby](./algorithms/valid_sudoku.rb)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Ruby](./algorithms/count_and_say.rb)|Easy|
