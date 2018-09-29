@@ -34,7 +34,7 @@
 |35|[Search Insert Postion](https://leetcode.com/problems/search-insert-position/description/)|[README](./algorithms/search_insert_position)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[README](./algorithms/valid_sudoku)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[README](./algorithms/count_and_say)|Easy|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Ruby](./algorithms/combination_sum.rb)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[README](./algorithms/combination_sum)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Ruby](./algorithms/combination_sum_ii.rb)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[Ruby](./algorithms/multiply_strings.rb)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[Ruby](./algorithms/permutations.rb)|Medium|
