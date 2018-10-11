@@ -36,7 +36,7 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[README](./algorithms/count_and_say)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[README](./algorithms/combination_sum)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[README](./algorithms/combination_sum_ii)|Medium|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[Ruby](./algorithms/multiply_strings.rb)|Medium|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[README](./algorithms/multiply_strings)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[Ruby](./algorithms/permutations.rb)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[Ruby](./algorithms/permutations_ii.rb)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Ruby](./algorithms/rotate_image.rb)|Medium|
