@@ -39,7 +39,7 @@
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[README](./algorithms/multiply_strings)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[README](./algorithms/permutations)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[README](./algorithms/permutations_ii)|Medium|
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Ruby](./algorithms/rotate_image.rb)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[README](./algorithms/rotate_image)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Ruby](./algorithms/group_anagrams.rb)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[Ruby](./algorithms/powx_n.rb)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Ruby](./algorithms/maximum_subarray.rb)|Easy|
