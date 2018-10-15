@@ -46,7 +46,7 @@
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[README](./algorithms/spiral_matrix)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[README](./algorithms/jump_game)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[README](./algorithms/merge_intervals)|Medium|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[Ruby](./algorithms/length_of_last_word.rb)|Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[README](./algorithms/length_of_last_word)|Easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[README](./algorithms/spiral_matrix_ii)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[README](./algorithms/permutation_sequence)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[README](./algorithms/rotate_list)|Medium|
