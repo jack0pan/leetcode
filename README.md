@@ -56,7 +56,7 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[README](./algorithms/plus_one)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[README](./algorithms/add_binary)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[README](./algorithms/sqrtx)|Easy|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Ruby](./algorithms/climbing_stairs.rb)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[README](./algorithms/climbing_stairs)|Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[README](./algorithms/simplify_path)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[README](./algorithms/set_matrix_zeroes)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[README](./algorithms/search_a_2d_matrix)|Medium|
