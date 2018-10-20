@@ -67,8 +67,9 @@
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[README](./algorithms/remove_duplicates_from_sorted_array_ii)|Medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[README](./algorithms/search_in_rotated_sorted_array_ii)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[README](./algorithms/remove_duplicates_from_sorted_list_ii)|Medium|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[README](./algorithms/remove_duplicates_from_sorted_list)|Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/)|[README](./algorithms/partition_list)|Medium|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Ruby](./algorithms/merge_sorted_array.rb)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Ruby](./algorithms/merge_sorted_array)|Easy|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[README](./algorithms/gray_code)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)|[README](./algorithms/subsets_ii)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[README](./algorithms/decode_ways)|Medium|
