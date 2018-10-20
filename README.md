@@ -42,7 +42,7 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[README](./algorithms/rotate_image)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[README](./algorithms/group_anagrams)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[README](./algorithms/powx_n)|Medium|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Ruby](./algorithms/maximum_subarray.rb)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[README](./algorithms/maximum_subarray)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[README](./algorithms/spiral_matrix)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[README](./algorithms/jump_game)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[README](./algorithms/merge_intervals)|Medium|
