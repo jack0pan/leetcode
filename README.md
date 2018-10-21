@@ -82,13 +82,14 @@
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[README](./algorithms/symmetric_tree)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[README](./algorithms/binary_tree_level_order_traversal)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)|[README](./algorithms/binary_tree_zigzag_level_order_traversal)|Medium|
-|104|[Maximun Depth of Bianry Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[README](./algorithms/maximum_depth_of_binary_tree)|Easy|
+|104|[Maximum Depth of Bianry Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[README](./algorithms/maximum_depth_of_binary_tree)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[README](./algorithms/construct_binary_tree_from_preorder_and_inorder_traversal)|Medium|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|[README](./algorithms/construct_binary_tree_from_inorder_and_postorder_traversal)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[README](./algorithms/binary_tree_level_order_traversal_ii)|Medium|
-|107|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[README](./algorithms/convert_sorted_array_to_binary_search_tree)|Medium|
-|108|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)|[README](./algorithms/convert_sorted_list_to_binary_search_tree)|Medium|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[README](./algorithms/convert_sorted_array_to_binary_search_tree)|Medium|
+|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)|[README](./algorithms/convert_sorted_list_to_binary_search_tree)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|[README](./algorithms/balanced_binary_tree)|Easy|
+|111|[Minimum Depth of Bianry Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[README](./algorithms/minimum_depth_of_binary_tree)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[README](./algorithms/binary_tree_preorder_traversal)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)|[README](./algorithms/binary_tree_postorder_traversal)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[README](./algorithms/reverse_linked_list)|Easy|
